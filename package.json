@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xinkaiwang/testbed-pi/issues"
   },
-  "homepage": "https://github.com/xinkaiwang/testbed-pi"
+  "homepage": "https://github.com/xinkaiwang/testbed-pi",
+  "dependencies": {
+    "ds18b20": "^0.1.0"
+  }
 }
