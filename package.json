@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/xinkaiwang/testbed-pi",
   "dependencies": {
-    "ds18b20": "^0.1.0"
+    "bluebird": "^3.1.5",
+    "ds18b20": "^0.1.0",
+    "pi-blaster.js": "^0.1.1",
+    "underscore": "^1.8.3"
   }
 }
